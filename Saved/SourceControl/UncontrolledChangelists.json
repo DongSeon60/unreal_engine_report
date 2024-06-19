@@ -1,0 +1,37 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/ex1/MyProject2/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"D:/ex1/MyProject2/Content/_GENERATED/dlehdtjs00/Sun.uasset",
+				"D:/ex1/MyProject2/Content/_GENERATED/dlehdtjs00/Planet.uasset",
+				"D:/ex1/MyProject2/Content/_GENERATED/dlehdtjs00/BP_Planet.uasset",
+				"D:/ex1/MyProject2/Content/project1/NewMap.umap",
+				"D:/ex1/MyProject2/Content/_GENERATED/dlehdtjs00/earth.uasset",
+				"D:/ex1/MyProject2/Content/_GENERATED/dlehdtjs00/MoonMA.uasset",
+				"D:/ex1/MyProject2/Content/_GENERATED/dlehdtjs00/dsjido_com_15895_World_Satellite_Wall_Map_Pacific-centered.uasset",
+				"D:/ex1/MyProject2/Content/_GENERATED/dlehdtjs00/moon.uasset",
+				"D:/ex1/MyProject2/Content/project1/_GENERATED/dlehdtjs00/Sphere_8FD450B2.uasset",
+				"D:/ex1/MyProject2/Content/_GENERATED/dlehdtjs00/Winkel-tripel-projection.uasset",
+				"D:/ex1/MyProject2/Content/project1/RoomEscape.umap",
+				"D:/ex1/MyProject2/Content/project1/door_parent.uasset",
+				"D:/ex1/MyProject2/Content/project1/door_parent_Child.uasset",
+				"D:/ex1/MyProject2/Content/StarterContent/Props/SM_Door.uasset",
+				"D:/ex1/MyProject2/Content/project1/time.uasset",
+				"D:/ex1/MyProject2/Content/ThirdPerson/Blueprints/NewWidgetBlueprint.uasset",
+				"D:/ex1/MyProject2/Content/ThirdPerson/Blueprints/InGameUI.uasset",
+				"D:/ex1/MyProject2/Content/ThirdPerson/Blueprints/PlayerGameHUD.uasset",
+				"D:/ex1/MyProject2/Content/ThirdPerson/Blueprints/GameUI.uasset",
+				"D:/ex1/MyProject2/Content/project1/BP_time.uasset",
+				"D:/ex1/MyProject2/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"D:/ex1/MyProject2/Content/project1/main_Weight_+w.uasset",
+				"D:/ex1/MyProject2/Content/project1/main_Weight_w.uasset",
+				"D:/ex1/MyProject2/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
+				"D:/ex1/MyProject2/Content/project1/space.umap"
+			]
+		}
+	]
+}
